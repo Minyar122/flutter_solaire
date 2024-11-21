@@ -1,0 +1,44 @@
+name: system_solaire
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.8.0
+  google_fonts: ^6.2.1
+  http: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/sun.png
+    - assets/images/mercury.png
+    - assets/images/venus.png
+    - assets/images/earth.png
+    - assets/images/mars.png
+    - assets/images/icon.png
+    - assets/images/img.png
+    - assets/images/solaire.png
+    - assets/images/neptune.png
+    - assets/images/uranus.png
+    - assets/images/saturn.png
+    - assets/images/jupiter.png
+    - assets/images/ear.png
+    - assets/images/ven.png
+    - assets/images/pluto.png
+    - assets/images/planet.png
+    - assets/images/image1.png
+    - assets/images/quiz.png

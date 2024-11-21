@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632365486882",
+    "project_id": "fir-solaire",
+    "storage_bucket": "fir-solaire.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632365486882:android:0ada4e5050fd544a2f0b7b",
+        "android_client_info": {
+          "package_name": "com.example.system_solaire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ3OTWX61EMq5DwD_DpUipA3f33tymNPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
